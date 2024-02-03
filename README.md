@@ -4,7 +4,7 @@
 
 Welcome to the Canada Sync API – your gateway to a wealth of data for seamless integration and dynamic experiences across Canada! 🍁
 
-## Key Features
+## Features
 
 - **Facility Fetching:** Retrieve information about facilities across Canada.
 - **Distance Calculations:** Calculate distances between two locations.
@@ -17,6 +17,21 @@ Welcome to the Canada Sync API – your gateway to a wealth of data for seamless
 - **Marine Weather Reports:** Real-time updates on marine weather conditions.
 - **Hydrometric Insights:** Stay weather-savvy with hydrometric reports.
 - **Hydrometric Stations:** Discover and explore the network of hydrometric stations.
+- **Holidays Calendar:** Access information about holidays.
+- **Holidays Province:** Retrieve holidays specific to a province.
+- **Holidays Type:** Filter holidays based on type.
+- **Canada Events:** Stay updated with upcoming events in Canada.
+- **Currency Converter:** Convert currency with real-time rates.
+
+## Change Log
+
+### v0.0.2 - New Features
+
+- Added Holidays Calendar endpoint: `/holidays`
+- Introduced Holidays Province endpoint: `/holidays/province`
+- Implemented Holidays Type endpoint: `/holidays/type`
+- Canada Events endpoint for upcoming events: `/events`
+- Currency Converter and Rates endpoints: `/convert` and `/rates`
 
 ## Getting Started
 
